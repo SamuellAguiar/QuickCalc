@@ -1,4 +1,4 @@
-<h3 align="center"> Calculadora </h3>
+<h2> Calculadora </h2>
 
 <p>
   Este projeto consiste em um calculadora simples desenvolvido utilizando HTML, CSS e JavaScript. <br />
